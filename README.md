@@ -4,3 +4,4 @@ Codes are performed in Operating System lab in college
 -[Round Robin](https://github.com/neerajsingh116/Operating-System-Lab/blob/master/Round_Robin)
 -[First_Come_First_Serve](https://github.com/neerajsingh116/Operating-System-Lab/blob/master/First_Come_First_Serve)
 -[Shortest_Remaining_Time](https://github.com/neerajsingh116/Operating-System-Lab/blob/master/Shortest_Remaining_Time)
+-[Shortest_Remaining_Time_First](https://github.com/neerajsingh116/Operating-System-Lab/blob/master/Shortest_Remaining_Time_First)
